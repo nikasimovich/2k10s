@@ -1,8 +1,7 @@
-::-moz-selection { background: #3a6fd4; }
-::selection { background: #3a6fd4; }
+::selection { background: #9900FF; }
 
 body {
-  background-color: #f0f1f2;
+  background-color: #efefef;
   font-family: arial;
   font-size: 22px;
   line-height: 1.3;
@@ -32,6 +31,6 @@ a {
 }
 
 a:hover {
-  color: navy;
+  color: #9900FF;
 }
 
