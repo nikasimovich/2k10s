@@ -1,5 +1,5 @@
-::-moz-selection { background: yellow; }
-::selection { background: yellow; }
+::-moz-selection { background: #3a6fd4; }
+::selection { background: #3a6fd4; }
 
 body {
   background-color: #f0f1f2;
@@ -29,5 +29,9 @@ h1, h2, h3 {
 
 a {
   color: black;
+}
+
+a:hover {
+  color: navy;
 }
 
