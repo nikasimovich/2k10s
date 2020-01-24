@@ -1,4 +1,4 @@
-::selection { background: #9900FF; }
+::selection { background: #8a2be2; }
 
 body {
   background-color: #efefef;
@@ -31,6 +31,6 @@ a {
 }
 
 a:hover {
-  color: #9900FF;
+  color: #8a2be2;
 }
 
